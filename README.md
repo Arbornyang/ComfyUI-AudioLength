@@ -23,14 +23,14 @@ ComfyUI 中 AUDIO 类型是一个字典，包含：
 
 1. 打开 ComfyUI Manager
 2. 点击 **Install via Git URL**
-3. 粘贴：`https://github.com/1946242666/ComfyUI-AudioLength.git`
+3. 粘贴：`https://github.com/Arbornyang/ComfyUI-AudioLength.git`
 4. 重启 ComfyUI
 
 ### 方式二：手动安装
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/1946242666/ComfyUI-AudioLength.git
+git clone https://github.com/Arbornyang/ComfyUI-AudioLength.git
 ```
 
 重启 ComfyUI 即可。

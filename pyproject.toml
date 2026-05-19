@@ -5,7 +5,7 @@ version = "1.0.0"
 license = { text = "MIT" }
 
 [project.urls]
-Repository = "https://github.com/1946242666/ComfyUI-AudioLength"
+Repository = "https://github.com/Arbornyang/ComfyUI-AudioLength"
 
 [tool.comfy]
 PublisherId = "1946242666"

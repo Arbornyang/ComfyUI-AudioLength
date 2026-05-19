@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-audiolength"
+description = "A ComfyUI custom node that calculates audio duration in seconds (rounded to 2 decimal places)."
+version = "1.0.0"
+license = { text = "MIT" }
+
+[project.urls]
+Repository = "https://github.com/1946242666/ComfyUI-AudioLength"
+
+[tool.comfy]
+PublisherId = "1946242666"
+DisplayName = "ComfyUI-AudioLength"
+Icon = ""

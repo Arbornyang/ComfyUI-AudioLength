@@ -1,0 +1,2 @@
+# 无额外依赖
+# ComfyUI 自带 torch，本节点只使用 torch Tensor 的 shape 属性
